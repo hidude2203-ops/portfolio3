@@ -541,6 +541,71 @@ function initApp() {
   const projectsData = [
     {
       id: 0,
+      title: "Interstellar: Best Font Pairings Specimen Poster",
+      desc: "Cinematic sci-fi typographic specimen poster exploring cosmic scale, Gargantua black hole gravitational lensing, and curated editorial font pairing architecture.",
+      hasFullData: true,
+      imgSrc: "Interstellar Font Pairings Poster (1).png",
+      imgAlt: "Interstellar Best Font Pairings Gargantua Black Hole Typographic Specimen Poster",
+      nodes: [
+        {
+          title: "Cosmic Visual Research",
+          desc: "Analyzed sci-fi cinematography and accretion disk gravitational lensing physics.",
+          icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a10 10 0 0 1 0 20v-20z" fill="currentColor"/></svg>'
+        },
+        {
+          title: "Editorial Font Pairing Study",
+          desc: "Harmonized bold grotesque sans with high-contrast italic swash serifs.",
+          icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="4 7 4 4 20 4 20 7"/><line x1="9" y1="20" x2="15" y2="20"/><line x1="12" y1="4" x2="12" y2="20"/></svg>'
+        },
+        {
+          title: "Periodic Element Badge",
+          desc: "Constructed the signature 08 Pa element badge with mathematical kerning.",
+          icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 8h10M7 12h6M7 16h8"/></svg>'
+        },
+        {
+          title: "Atmospheric Compositing",
+          desc: "Blended icy mountain vistas, deep starfield nebulae, and lighting rim glows.",
+          icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>'
+        },
+        {
+          title: "Prepress Print Calibration",
+          desc: "Color-managed deep space rich blacks and golden photon ring CMYK balances.",
+          icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>'
+        }
+      ],
+      tools: ["Photoshop", "Illustrator", "Typography", "Prepress"],
+      results: [
+        { stat: "08 Pairings", label: "Curated typographic systems" },
+        { stat: "300 DPI", label: "Large-format exhibition ready" },
+        { stat: "Deep Space", label: "Gargantua black hole key art" }
+      ],
+      caseStudy: {
+        title: "Interstellar: Best Font Pairings & Cinematic Specimen Poster",
+        subtitle: "Harmonizing cosmic cinematic scale with editorial typographic pairing theory.",
+        execSummaryHTML: `
+          <div class="cs-block">
+            <h4 class="cs-block-heading">The Creative Concept</h4>
+            <p class="cs-block-p">Designed as both a visual tribute to Christopher Nolan's <em>Interstellar</em> and a practical design reference poster celebrating the art of typographic contrast. The poster captures the immense scale of human exploration juxtaposed against curated typographic pairing architecture.</p>
+          </div>
+          <div class="cs-block">
+            <h4 class="cs-block-heading">Typographic Architecture</h4>
+            <p class="cs-block-p">Centers around the dynamic interplay between a modern geometric sans ("best") and an expressive high-contrast italic serif ("font"), anchored by the periodic element box ("08 Pa irings"). Mathematical tracking and kerning balance ensure instant optical legibility across interstellar distances.</p>
+          </div>
+          <div class="cs-block">
+            <h4 class="cs-block-heading">Compositing &amp; Lighting</h4>
+            <ul class="cs-block-list">
+              <li>🌌 <strong>Gargantua Accretion Disk:</strong> Gravitational lensing effects rendered with hyper-realistic photon ring glow curves.</li>
+              <li>❄️ <strong>Atmospheric Depth:</strong> Frozen mountain terrain composited with directional rim lighting and ambient cosmic star dust.</li>
+              <li>🖨️ <strong>Fine Art Print Quality:</strong> Calibrated for 300 DPI fine-art exhibition prints with rich space blacks and vivid golden hues.</li>
+            </ul>
+          </div>
+        `,
+        metricLabel: "Medium:",
+        metricTag: "Key Art & Specimen ⚡"
+      }
+    },
+    {
+      id: 1,
       title: "Cinevision: Cillian Murphy Retrospective",
       desc: "High-contrast cinematic tribute poster featuring split duotone photo manipulation, bold Swiss typography, grainy texture overlays, and festival credits.",
       hasFullData: true,
@@ -605,7 +670,7 @@ function initApp() {
       }
     },
     {
-      id: 1,
+      id: 2,
       title: "Distorted Afterimage: Sonic Archive",
       desc: "Dark psychedelic audio-visual event poster showcasing glitch typography, chromatic aberration, fluid motion blur distortion, and a minimalist grid.",
       hasFullData: true,
@@ -670,7 +735,7 @@ function initApp() {
       }
     },
     {
-      id: 2,
+      id: 3,
       title: "Vanguard Partners: Every Dollar Counts",
       desc: "Brutalist financial campaign poster with high-contrast monetary typography, diagonal dynamic composition, and impactful focal accents.",
       hasFullData: true,
@@ -727,7 +792,7 @@ function initApp() {
       }
     },
     {
-      id: 3,
+      id: 4,
       title: "Division: Tactical Streetwear Archive",
       desc: "Utilitarian streetwear poster featuring monochrome industrial aesthetics, technical barcode motifs, distressed stencil typography, and modular grids.",
       hasFullData: true,
@@ -784,7 +849,7 @@ function initApp() {
       }
     },
     {
-      id: 4,
+      id: 5,
       title: "The 911 Standard: Neo-Ukiyo-e Series",
       desc: "Fusion of classical Japanese woodblock print aesthetics with iconic automotive design, featuring Mount Fuji, the red sun, and custom kanji.",
       hasFullData: true,
@@ -841,7 +906,7 @@ function initApp() {
       }
     },
     {
-      id: 5,
+      id: 6,
       title: "The Crow: Rainy Noir Theatrical Poster",
       desc: "Gothic noir tribute poster capturing atmospheric rain particle effects, moody ambient backlight, bespoke lettering, and cinematic contrast.",
       hasFullData: true,
@@ -898,7 +963,7 @@ function initApp() {
       }
     },
     {
-      id: 6,
+      id: 7,
       title: "True Power: Vintage Birmingham Heritage",
       desc: "1920s Industrial Birmingham period key art celebrating grit and smoke with authentic letterpress woodtype and tactile parchment textures.",
       hasFullData: true,
@@ -955,7 +1020,7 @@ function initApp() {
       }
     },
     {
-      id: 7,
+      id: 8,
       title: "Kiran Design: Geometric Identity Grid",
       desc: "Mathematical logo construction blueprint demonstrating golden-ratio bezier curves, precision geometric alignment, and dark vector aesthetics.",
       hasFullData: true,
@@ -1012,7 +1077,7 @@ function initApp() {
       }
     },
     {
-      id: 8,
+      id: 9,
       title: "Kiran: Custom Retro Serif Wordmark",
       desc: "Custom tailored wordmark blending 1970s editorial warmth with crisp modern geometry, high-contrast serifs, and a vintage color palette.",
       hasFullData: true,
@@ -1069,7 +1134,7 @@ function initApp() {
       }
     },
     {
-      id: 9,
+      id: 10,
       title: "Kiran Identity System: Brand Guidelines",
       desc: "Comprehensive brand identity system showcasing business cards, letterheads, typography rules, color swatches, and physical packaging applications.",
       hasFullData: true,
