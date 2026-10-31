@@ -544,7 +544,7 @@ function initApp() {
       title: "Cinevision: Cillian Murphy Retrospective",
       desc: "High-contrast cinematic tribute poster featuring split duotone photo manipulation, bold Swiss typography, grainy texture overlays, and festival credits.",
       hasFullData: true,
-      imgSrc: "Poster/Cinevision_ Cillian Murphy Retrospective.png",
+      imgSrc: "Cinevision_ Cillian Murphy Retrospective.png",
       imgAlt: "Cinevision Cillian Murphy Film Retrospective Poster Design",
       nodes: [
         {
@@ -609,7 +609,7 @@ function initApp() {
       title: "Distorted Afterimage: Sonic Archive",
       desc: "Dark psychedelic audio-visual event poster showcasing glitch typography, chromatic aberration, fluid motion blur distortion, and a minimalist grid.",
       hasFullData: true,
-      imgSrc: "Poster/Distorted Afterimage Archive.png",
+      imgSrc: "Distorted Afterimage Archive.png",
       imgAlt: "Distorted Afterimage Sonic Archive Experimental Music Poster",
       nodes: [
         {
@@ -674,7 +674,7 @@ function initApp() {
       title: "Vanguard Partners: Every Dollar Counts",
       desc: "Brutalist financial campaign poster with high-contrast monetary typography, diagonal dynamic composition, and impactful focal accents.",
       hasFullData: true,
-      imgSrc: "Poster/Every Dollar Counts Marketing Poster.png",
+      imgSrc: "Every Dollar Counts Marketing Poster.png",
       imgAlt: "Every Dollar Counts Corporate Financial Campaign Poster",
       nodes: [
         {
@@ -731,7 +731,7 @@ function initApp() {
       title: "Division: Tactical Streetwear Archive",
       desc: "Utilitarian streetwear poster featuring monochrome industrial aesthetics, technical barcode motifs, distressed stencil typography, and modular grids.",
       hasFullData: true,
-      imgSrc: "Poster/Tactical Streetwear Archive Poster.png",
+      imgSrc: "Tactical Streetwear Archive Poster.png",
       imgAlt: "Tactical Streetwear Archive Fashion Lookbook Poster",
       nodes: [
         {
@@ -788,7 +788,7 @@ function initApp() {
       title: "The 911 Standard: Neo-Ukiyo-e Series",
       desc: "Fusion of classical Japanese woodblock print aesthetics with iconic automotive design, featuring Mount Fuji, the red sun, and custom kanji.",
       hasFullData: true,
-      imgSrc: "Poster/The 911 Standard.png",
+      imgSrc: "The 911 Standard.png",
       imgAlt: "The 911 Standard Japanese Neo-Traditional Automotive Poster",
       nodes: [
         {
@@ -845,7 +845,7 @@ function initApp() {
       title: "The Crow: Rainy Noir Theatrical Poster",
       desc: "Gothic noir tribute poster capturing atmospheric rain particle effects, moody ambient backlight, bespoke lettering, and cinematic contrast.",
       hasFullData: true,
-      imgSrc: "Poster/The Crow_ Rainy Noir Poster.png",
+      imgSrc: "The Crow_ Rainy Noir Poster.png",
       imgAlt: "The Crow Rainy Noir Atmospheric Theatrical Poster",
       nodes: [
         {
@@ -902,7 +902,7 @@ function initApp() {
       title: "True Power: Vintage Birmingham Heritage",
       desc: "1920s Industrial Birmingham period key art celebrating grit and smoke with authentic letterpress woodtype and tactile parchment textures.",
       hasFullData: true,
-      imgSrc: "Poster/True Power_ Vintage Birmingham Poster.png",
+      imgSrc: "True Power_ Vintage Birmingham Poster.png",
       imgAlt: "True Power Vintage Birmingham 1920s Heritage Poster",
       nodes: [
         {
@@ -959,7 +959,7 @@ function initApp() {
       title: "Kiran Design: Geometric Identity Grid",
       desc: "Mathematical logo construction blueprint demonstrating golden-ratio bezier curves, precision geometric alignment, and dark vector aesthetics.",
       hasFullData: true,
-      imgSrc: "Logo/Gemini_Generated_Image_cf1c4mcf1c4mcf1c.png",
+      imgSrc: "Gemini_Generated_Image_cf1c4mcf1c4mcf1c.png",
       imgAlt: "Kiran Design Geometric Logo Construction Blueprint",
       nodes: [
         {
@@ -1016,7 +1016,7 @@ function initApp() {
       title: "Kiran: Custom Retro Serif Wordmark",
       desc: "Custom tailored wordmark blending 1970s editorial warmth with crisp modern geometry, high-contrast serifs, and a vintage color palette.",
       hasFullData: true,
-      imgSrc: "Logo/kiran.png",
+      imgSrc: "kiran.png",
       imgAlt: "Kiran Custom Retro Serif Handcrafted Wordmark",
       nodes: [
         {
@@ -1073,7 +1073,7 @@ function initApp() {
       title: "Kiran Identity System: Brand Guidelines",
       desc: "Comprehensive brand identity system showcasing business cards, letterheads, typography rules, color swatches, and physical packaging applications.",
       hasFullData: true,
-      imgSrc: "Logo/Gemini_Generated_Image_ck8qvnck8qvnck8q.png",
+      imgSrc: "Gemini_Generated_Image_ck8qvnck8qvnck8q.png",
       imgAlt: "Kiran Complete Brand Identity System and Stationery Mockups",
       nodes: [
         {
